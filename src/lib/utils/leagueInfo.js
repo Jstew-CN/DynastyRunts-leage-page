@@ -24,7 +24,6 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     // Me
     {
-      "roster": 0,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "734099444080967680",
       "name": "Stewmakemecrazy",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -48,7 +47,6 @@ export const managers = [
     },
     // Trent
     {
-      "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "735971119571537920",
       "name": "tkbredx",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -72,7 +70,6 @@ export const managers = [
     },
     // Brian
     {
-      "roster": 2,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "735971976161705984",
       "name": "backwoodloading",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -96,7 +93,6 @@ export const managers = [
     },
     // Beau
     {
-      "roster": 3,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "1261719627310837760",
       "name": "chefboyrdeezbxsdumb",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -119,8 +115,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     // Christian
-    {
-      "roster": 4,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+    {      
       "managerID": "735985118111457280",
       "name": "Tcjhayes",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -144,7 +139,6 @@ export const managers = [
     },
     // Chris
     {
-      "roster": 5,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "1261411578222231552",
       "name": "504Gucci",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -168,7 +162,6 @@ export const managers = [
     },
     // Jordan
     {
-      "roster": 6,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "1264320447369990144",
       "name": "jumpshotsmitty4",
       "tookOver": 2026, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -192,7 +185,6 @@ export const managers = [
     },
     // Jon
     {
-      "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "735971360429486080",
       "name": "jongreenAKas41",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -216,7 +208,6 @@ export const managers = [
     },
     // B Nev
     {
-      "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "735972111448985600", // Actual is 739602561295896576
       "name": "Yuroooo",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -240,7 +231,6 @@ export const managers = [
     },
     //Mike
     {
-      "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "996162902086328320", // actual "managerID": "1235047431314358272",
       "name": "mikeaveli",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -264,7 +254,6 @@ export const managers = [
     },
     // Bret
     {
-      "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "725932286121439232",
       "name": "therealyoungswag",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
@@ -288,7 +277,6 @@ export const managers = [
     },
     // Josh
     {
-      "roster": 11,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "managerID": "871832829498167296",
       "name": "jbarney24",
       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
