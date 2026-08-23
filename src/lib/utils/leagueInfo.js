@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
  <p>Welcome to the Dynasty Runts Fantasy Dashboard you filthy animals.</p>
  <p>Congratulations to our Inargural league winner Christian 'VOODOOZ' Hayes! and a warm elcome our newest Runt Jordan 'CTE' Smith!<p>
- <p>May the best RUnt win!<p>
+ <p>May the best Runt win!<p>
 `;
 
 /*   STEP 3   */
